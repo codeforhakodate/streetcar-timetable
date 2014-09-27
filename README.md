@@ -12,4 +12,4 @@ TODO: 後にやります
 
 ## ライセンス
 Copyright (c) 2014 Ryo Sugimoto and Busearch developers
-[LGPL v2.0](http://opensource.org/licenses/lgpl-2.1.php)
+[BSD 3-Clause](http://opensource.org/licenses/BSD-3-Clause)
