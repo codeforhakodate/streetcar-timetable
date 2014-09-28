@@ -12,4 +12,5 @@ TODO: 後にやります
 
 ## ライセンス
 Copyright (c) 2014 Ryo Sugimoto and Busearch developers
-[BSD 3-Clause](http://opensource.org/licenses/BSD-3-Clause)
+
+[BSD 3-Clause License](http://opensource.org/licenses/BSD-3-Clause)
