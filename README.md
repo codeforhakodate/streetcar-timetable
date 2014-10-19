@@ -14,7 +14,7 @@ Busearchは、函館の交通機関の時刻表などのAPIを提供します。
 * holiday -> 休日の時刻表  
   - yunokawa-hakodate.yml -> 湯の川〜谷地頭・函館どつく  
   - hakodate-yunokawa.yml -> 谷地頭・函館どつく〜湯の川  
-weekday -> 平日の時刻表  
+* weekday -> 平日の時刻表  
   - yunokawa-hakodate.yml -> 湯の川〜谷地頭・函館どつく  
   - hakodate-yunokawa.yml -> 谷地頭・函館どつく〜湯の川  
 
