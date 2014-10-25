@@ -21,6 +21,9 @@ Busearchは、函館の交通機関の時刻表などのAPIを提供します。
 ## 使い方
 TODO: 後にやります
 
+## Busearchのページ
+[https://codeforhakodate.github.io/busearch](https://codeforhakodate.github.io/busearch)
+
 ## ライセンス
 Copyright (c) 2014 [Ryo Sugimoto](https://github.com/sugryo) and Busearch developers
 
