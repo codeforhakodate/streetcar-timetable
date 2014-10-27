@@ -18,9 +18,6 @@ Busearchは、函館の交通機関の時刻表などのAPIを提供します。
   - yunokawa-hakodate.yml -> 湯の川〜谷地頭・函館どつく  
   - hakodate-yunokawa.yml -> 谷地頭・函館どつく〜湯の川  
 
-## 使い方
-TODO: 後にやります
-
 ## Busearchのページ
 [https://codeforhakodate.github.io/busearch](https://codeforhakodate.github.io/busearch)
 
