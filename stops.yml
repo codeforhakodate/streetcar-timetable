@@ -1,55 +1,54 @@
-stops:
-  ja:
-    1: 湯の川
-    2: 湯の川温泉
-    3: 市民会館前
-    4: 駒場車庫前
-    5: 競馬場前
-    6: 深堀町
-    7: 柏木町
-    8: 杉並町
-    9: 五稜郭公園前
-    10: 中央病院前
-    11: 千代台
-    12: 堀川町
-    13: 昭和橋
-    14: 千歳町
-    15: 新川町
-    16: 松風町
-    17: 函館駅前
-    18: 市役所前
-    19: 魚市場通
-    20: 十字街
-    21: 宝来町
-    22: 青柳町
-    23: 谷地頭
-    24: 末広町
-    25: 大町
-    26: 函館どつく前
-  en:
-    1: Yunokawa
-    2: Yunokawa Spa
-    3: Civic Center
-    4: Komaba Depot
-    5: Racetrack
-    6: Fukabori
-    7: Kashiwagi
-    8: Suginami
-    9: Goryokaku Park
-    10: Chuo Hospital
-    11: Chiokadai
-    12: Horikawa
-    13: Showa bridge
-    14: Chitose
-    15: Shinkawa
-    16: Matsukaze
-    17: Hakodate Station
-    18: City Hall
-    19: Fish Market street
-    20: Jyujigai
-    21: Hourai
-    22: Aoyagi
-    23: Yachigashira
-    24: Suehiro
-    25: Ote
-    26: Hakodate Dotu
+ja:
+  1: 湯の川
+  2: 湯の川温泉
+  3: 市民会館前
+  4: 駒場車庫前
+  5: 競馬場前
+  6: 深堀町
+  7: 柏木町
+  8: 杉並町
+  9: 五稜郭公園前
+  10: 中央病院前
+  11: 千代台
+  12: 堀川町
+  13: 昭和橋
+  14: 千歳町
+  15: 新川町
+  16: 松風町
+  17: 函館駅前
+  18: 市役所前
+  19: 魚市場通
+  20: 十字街
+  21: 宝来町
+  22: 青柳町
+  23: 谷地頭
+  24: 末広町
+  25: 大町
+  26: 函館どつく前
+en:
+  1: Yunokawa
+  2: Yunokawa Spa
+  3: Civic Center
+  4: Komaba Depot
+  5: Racetrack
+  6: Fukabori
+  7: Kashiwagi
+  8: Suginami
+  9: Goryokaku Park
+  10: Chuo Hospital
+  11: Chiokadai
+  12: Horikawa
+  13: Showa bridge
+  14: Chitose
+  15: Shinkawa
+  16: Matsukaze
+  17: Hakodate Station
+  18: City Hall
+  19: Fish Market street
+  20: Jyujigai
+  21: Hourai
+  22: Aoyagi
+  23: Yachigashira
+  24: Suehiro
+  25: Ote
+  26: Hakodate Dotu
