@@ -9,14 +9,15 @@ Busearchは、函館の交通機関の時刻表などのAPIを提供します。
 
 ## ファイル構成
 * README.md -> Busearchの説明です。  
-* stops.yml -> 停留所名が書いてあります。(日本語, 英語)  
+* stops.yml -> 停留所名が書いてあります。(日本語, 英語)
+* stops.csv -> stops.ymlのcsv版です。
 * LICENSE -> ライセンスが書いてあります。  
 * holiday -> 休日の時刻表  
   - yunokawa-hakodate.yml -> 湯の川〜谷地頭・函館どつく  
   - hakodate-yunokawa.yml -> 谷地頭・函館どつく〜湯の川  
 * weekday -> 平日の時刻表  
   - yunokawa-hakodate.yml -> 湯の川〜谷地頭・函館どつく  
-  - hakodate-yunokawa.yml -> 谷地頭・函館どつく〜湯の川  
+  - hakodate-yunokawa.yml -> 谷地頭・函館どつく〜湯の川
 
 ## Busearchのページ
 [https://codeforhakodate.github.io/busearch](https://codeforhakodate.github.io/busearch)
