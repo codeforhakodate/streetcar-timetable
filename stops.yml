@@ -1,54 +1,131 @@
-ja:
-  1: 湯の川
-  2: 湯の川温泉
-  3: 市民会館前
-  4: 駒場車庫前
-  5: 競馬場前
-  6: 深堀町
-  7: 柏木町
-  8: 杉並町
-  9: 五稜郭公園前
-  10: 中央病院前
-  11: 千代台
-  12: 堀川町
-  13: 昭和橋
-  14: 千歳町
-  15: 新川町
-  16: 松風町
-  17: 函館駅前
-  18: 市役所前
-  19: 魚市場通
-  20: 十字街
-  21: 宝来町
-  22: 青柳町
-  23: 谷地頭
-  24: 末広町
-  25: 大町
-  26: 函館どつく前
-en:
-  1: Yunokawa
-  2: Yunokawa Spa
-  3: Civic Center
-  4: Komaba Depot
-  5: Racetrack
-  6: Fukabori
-  7: Kashiwagi
-  8: Suginami
-  9: Goryokaku Park
-  10: Chuo Hospital
-  11: Chiokadai
-  12: Horikawa
-  13: Showa bridge
-  14: Chitose
-  15: Shinkawa
-  16: Matsukaze
-  17: Hakodate Station
-  18: City Hall
-  19: Fish Market street
-  20: Jyujigai
-  21: Horai
-  22: Aoyagi
-  23: Yachigashira
-  24: Suehiro
-  25: Ote
-  26: Hakodate Dotsuku
+- number: 1
+  ja_name: 湯の川
+  en_name: Yunokawa
+  longitude: 140.790092
+  latitude: 41.781069
+- number: 2
+  ja_name: 湯の川温泉
+  en_name: Yunokawa Spa
+  longitude: 140.785204
+  latitude: 41.78003
+- number: 3
+  ja_name: 市民会館前
+  en_name: Civic Center
+  longitude: 140.782334
+  latitude: 41.78189400000001
+- number: 4
+  ja_name: 駒場車庫前
+  en_name: Komaba Depot
+  longitude: 140.77939
+  latitude: 41.783227
+- number: 5
+  ja_name: 競馬場前
+  en_name: Racetrack
+  longitude: 140.775893
+  latitude: 41.784357
+- number: 6
+  ja_name: 深堀町
+  en_name: Fukabori
+  longitude: 140.770029
+  latitude: 41.787154
+- number: 7
+  ja_name: 柏木町
+  en_name: Kashiwagi
+  longitude: 140.765232
+  latitude: 41.787893
+- number: 8
+  ja_name: 杉並町
+  en_name: Suginami
+  longitude: 140.759232
+  latitude: 41.788612
+- number: 9
+  ja_name: 五稜郭公園前
+  en_name: Goryokaku Park
+  longitude: 140.752211
+  latitude: 41.789187
+- number: 10
+  ja_name: 中央病院前
+  en_name: Chuo Hospital
+  longitude: 140.7509
+  latitude: 41.786592
+- number: 11
+  ja_name: 千代台
+  en_name: Chiokadai
+  longitude: 140.748486
+  latitude: 41.783979
+- number: 12
+  ja_name: 堀川町
+  en_name: Horikawa
+  longitude: 140.744028
+  latitude: 41.780501
+- number: 13
+  ja_name: 昭和橋
+  en_name: Showa bridge
+  longitude: 140.740729
+  latitude: 41.777896
+- number: 14
+  ja_name: 千歳町
+  en_name: Chitose
+  longitude: 140.738115
+  latitude: 41.775782
+- number: 15
+  ja_name: 新川町
+  en_name: Shinkawa
+  longitude: 140.735326
+  latitude: 41.773574
+- number: 16
+  ja_name: 松風町
+  en_name: Matsukaze
+  longitude: 140.733079
+  latitude: 41.771438
+- number: 17
+  ja_name: 函館駅前
+  en_name: Hakodate Station
+  longitude: 140.727738
+  latitude: 41.772251
+- number: 18
+  ja_name: 市役所前
+  en_name: City Hall
+  longitude: 140.725402
+  latitude: 41.76934
+- number: 19
+  ja_name: 魚市場通
+  en_name: Fish Market street
+  longitude: 140.722794
+  latitude: 41.76667399999999
+- number: 20
+  ja_name: 十字街
+  en_name: Jyujigai
+  longitude: 140.718628
+  latitude: 41.76408
+- number: 21
+  ja_name: 宝来町
+  en_name: Horai
+  longitude: 140.719928
+  latitude: 41.761111
+- number: 22
+  ja_name: 青柳町
+  en_name: Aoyagi
+  longitude: 140.718412
+  latitude: 41.756514
+- number: 23
+  ja_name: 谷地頭
+  en_name: Yachigashira
+  longitude: 140.716345
+  latitude: 41.753242
+- number: 24
+  ja_name: 末広町
+  en_name: Suehiro
+  longitude: 140.712431
+  latitude: 41.766535
+- number: 25
+  ja_name: 大町
+  en_name: Ote
+  longitude: 140.70922
+  latitude: 41.770123
+- number: 26
+  ja_name: 函館どつく前
+  en_name: Hakodate Dotsuku
+  longitude: 140.704293
+  latitude: 41.773134
+  
