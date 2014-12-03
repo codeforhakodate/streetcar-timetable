@@ -1,0 +1,6 @@
+- id: 1
+  ja_day: 平日
+  en_day: Weekday
+- id: 2
+  ja_day: 土・日・祝日
+  en_day: Holiday

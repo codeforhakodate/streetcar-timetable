@@ -11,6 +11,8 @@ Busearchは、函館の交通機関の時刻表などのAPIを提供します。
 * README.md -> Busearchの説明です。  
 * stops.yml -> 停留所名が書いてあります。(日本語, 英語)
 * stops.csv -> stops.ymlのcsv版です。
+* days.yml -> 曜日が書いてあります。(日本語, 英語)
+* days.csv -> days.ymlのcsv版です。
 * LICENSE -> ライセンスが書いてあります。  
 * holiday -> 休日の時刻表  
   - yunokawa-hakodate.yml -> 湯の川〜谷地頭・函館どつく  
