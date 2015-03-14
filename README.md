@@ -1,11 +1,9 @@
-# Busearch
+# Streetcar Timetable
 
-Busearchは、函館の交通機関の時刻表などのAPIを提供します。
-また、BusearchというWEBサービスを作る予定でいます。
+Streetcar Timetableは、函館の市電の時刻表や路線のデータを、csvやyamlで提供するものです。
 
 ## 提供する交通機関
 * 市電(函館市)
-* 函館バス
 
 ## ファイル構成
 * README.md -> Busearchの説明です。  
@@ -30,10 +28,7 @@ Busearchは、函館の交通機関の時刻表などのAPIを提供します。
 4. 停留所の経度
 5. 停留所の緯度
 
-## Busearchのページ
-[https://codeforhakodate.github.io/busearch](https://codeforhakodate.github.io/busearch)
-
 ## ライセンス
-Copyright (c) 2014 [Ryo Sugimoto](https://github.com/sugryo) and Busearch developers
+Copyright (c) 2014 [Ryo Sugimoto](https://github.com/sugryo)
 
 [BSD 3-Clause License](http://opensource.org/licenses/BSD-3-Clause)
